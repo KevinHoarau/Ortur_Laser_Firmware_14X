@@ -1,0 +1,6 @@
+protocol.c:241:6:protocol_auto_cycle_start	2
+protocol.c:290:6:protocol_exec_rt_system	68
+protocol.c:260:6:protocol_execute_realtime	29
+protocol.c:41:6:protocol_main_loop	27
+protocol.c:224:6:protocol_buffer_synchronize	4
+protocol.c:276:6:protocol_execute_realtime_limited	2

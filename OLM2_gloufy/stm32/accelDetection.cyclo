@@ -1,0 +1,7 @@
+accelDetection.c:57:6:BMA250_Init	1
+accelDetection.c:153:9:Check_BMA250_ID	1
+accelDetection.c:130:6:Gsensor_Init	3
+accelDetection.c:164:6:BMA250_Get_Acceleration	1
+accelDetection.c:193:6:Get_Acceleration	1
+accelDetection.c:220:6:accel_detection	9
+accelDetection.c:292:6:accel_detection_limit	4

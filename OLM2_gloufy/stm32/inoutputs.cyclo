@@ -1,0 +1,13 @@
+inoutputs.c:74:6:outputs_digital_reset	1
+inoutputs.c:61:6:inoutputs_init	1
+inoutputs.c:84:6:outputs_digital_set	1
+inoutputs.c:95:9:outputs_get_digital_state	3
+inoutputs.c:113:6:outputs_set_digital	3
+inoutputs.c:128:6:outputs_digital_action	7
+inoutputs.c:149:6:outputs_analog_init	1
+inoutputs.c:151:6:outputs_analog_set	1
+inoutputs.c:153:6:outputs_set_analog	1
+inoutputs.c:155:10:outputs_compute_pwm_value	1
+inoutputs.c:157:6:outputs_analog_action	1
+inoutputs.c:159:6:inputs_digital_init	1
+inoutputs.c:161:6:wait_on_input_action	1

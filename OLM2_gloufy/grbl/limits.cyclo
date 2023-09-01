@@ -1,0 +1,8 @@
+limits.c:79:6:limits_disable	1
+limits.c:41:6:limits_init	2
+limits.c:99:6:limits_enable	1
+limits.c:112:9:limits_get_state	5
+limits.c:160:9:limits_get_state_filter	3
+limits.c:190:6:HandleLimitIT	4
+limits.c:270:6:limits_go_home	27
+limits.c:534:6:limits_soft_check	5

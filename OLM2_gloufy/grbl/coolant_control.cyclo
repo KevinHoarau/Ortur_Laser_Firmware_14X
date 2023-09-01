@@ -1,0 +1,5 @@
+coolant_control.c:24:6:coolant_init	1
+coolant_control.c:39:9:coolant_get_state	1
+coolant_control.c:81:6:coolant_stop	1
+coolant_control.c:121:6:coolant_set_state	1
+coolant_control.c:196:6:coolant_sync	1

@@ -1,0 +1,15 @@
+print.c:27:6:printStringAll	2
+print.c:33:6:printString	2
+print.c:76:6:print_uint8_base10	5
+print.c:92:6:print_uint8_base10_all	5
+print.c:110:6:print_uint8_base2_ndigit	3
+print.c:124:6:print_uint32_base10	4
+print.c:143:6:print_uint32_base10_all	4
+print.c:162:6:printInteger	2
+print.c:172:6:printIntegerAll	2
+print.c:187:6:printFloat	9
+print.c:224:6:printFloatAll	9
+print.c:265:6:printFloat_CoordValue	2
+print.c:272:6:printFloat_CoordValue_All	2
+print.c:280:6:printFloat_RateValue	2
+print.c:287:6:printFloat_RateValue_All	2

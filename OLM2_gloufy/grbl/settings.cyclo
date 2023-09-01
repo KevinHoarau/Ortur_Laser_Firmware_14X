@@ -1,0 +1,11 @@
+settings.c:32:6:settings_store_startup_line	1
+settings.c:44:6:settings_store_build_info	1
+settings.c:52:6:settings_write_coord_data	1
+settings.c:64:6:write_global_settings	1
+settings.c:73:6:settings_restore	5
+settings.c:181:9:settings_read_startup_line	2
+settings.c:195:9:settings_read_build_info	2
+settings.c:208:9:settings_read_coord_data	2
+settings.c:237:9:read_global_settings	3
+settings.c:254:9:settings_store_global_setting	43
+settings.c:416:6:settings_init	2

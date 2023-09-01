@@ -1,0 +1,6 @@
+eeprom.c:61:6:eeprom_flush	4
+eeprom.c:108:6:eeprom_init	4
+eeprom.c:139:15:eeprom_get_char	1
+eeprom.c:168:6:eeprom_put_char	1
+eeprom.c:229:6:memcpy_to_eeprom_with_checksum	3
+eeprom.c:244:5:memcpy_from_eeprom_with_checksum	3

@@ -1,0 +1,11 @@
+spindle_control.c:89:9:spindle_get_state	1
+spindle_control.c:154:6:spindle_stop	1
+spindle_control.c:55:6:spindle_init	1
+spindle_control.c:196:9:is_spindle_Open	2
+spindle_control.c:207:8:spindle_set_speed	3
+spindle_control.c:305:22:spindle_compute_pwm_value	5
+spindle_control.c:339:8:spindle_set_state	6
+spindle_control.c:392:8:spindle_sync	2
+spindle_control.c:411:11:spindle_delay_stop	4
+spindle_control.c:431:8:spindle_disable_by_grbl_set	2
+spindle_control.c:443:8:spindle_calculate_heat	6

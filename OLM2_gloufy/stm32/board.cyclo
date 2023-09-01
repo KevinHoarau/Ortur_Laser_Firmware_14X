@@ -1,0 +1,4 @@
+board.c:16:1:__io_putchar	2
+board.c:27:6:soft_delay_us	2
+board.c:60:6:soft_delay_ms	2
+board.c:70:6:Check_Rst_Source	1

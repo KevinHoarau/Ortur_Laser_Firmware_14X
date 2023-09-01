@@ -1,0 +1,4 @@
+usb_device.c:38:9:isUsbCDCConnected	2
+usb_device.c:44:6:setUsbPlugIn	2
+usb_device.c:54:6:UsbCDCDisconnectStopEngrave	3
+usb_device.c:72:6:MX_USB_DEVICE_Init	5

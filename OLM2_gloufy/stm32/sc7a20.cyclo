@@ -1,0 +1,5 @@
+sc7a20.c:19:6:Write_One_Byte_iicaddr	1
+sc7a20.c:39:6:Read_One_Byte	1
+sc7a20.c:62:6:Sc7a20_Init	1
+sc7a20.c:74:9:Get_GsensorType	1
+sc7a20.c:92:6:Sc7a20_Get_Acceleration	1

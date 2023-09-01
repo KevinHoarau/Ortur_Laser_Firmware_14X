@@ -1,0 +1,8 @@
+iic.c:77:6:IIC_Init	1
+iic.c:104:6:IIC_Start	1
+iic.c:119:6:IIC_Stop	1
+iic.c:136:9:IIC_Wait_Ack	3
+iic.c:159:6:IIC_Ack	1
+iic.c:174:6:IIC_NAck	1
+iic.c:191:6:IIC_Send_Byte	3
+iic.c:219:9:IIC_Read_Byte	4

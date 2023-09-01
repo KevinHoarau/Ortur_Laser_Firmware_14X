@@ -1,0 +1,3 @@
+gcode.c:43:6:gc_init	2
+gcode.c:58:6:gc_sync_position	1
+gcode.c:69:9:gc_execute_line	237

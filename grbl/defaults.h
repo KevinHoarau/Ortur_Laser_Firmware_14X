@@ -45,6 +45,8 @@
 
 #if ORTUR_MODEL==OLM_2_PRO //OLM2_PRO使用手柄控制
 	#define USE_DOUBLE_SERIAL 1
+#elif ORTUR_MODEL==OLM_2
+	#define USE_DOUBLE_SERIAL 1
 #else
 	#define USE_DOUBLE_SERIAL 0
 #endif

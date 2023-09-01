@@ -1,0 +1,10 @@
+stepper.c:228:6:st_wake_up	3
+stepper.c:298:6:st_go_idle	7
+stepper.c:379:6:HandleStepSetIT	16
+stepper.c:655:6:HandleStepResetIT	1
+stepper.c:680:6:st_generate_step_dir_invert_masks	6
+stepper.c:705:6:st_reset	1
+stepper.c:740:6:stepper_init	1
+stepper.c:779:6:st_update_plan_block_parameters	2
+stepper.c:849:6:st_prep_buffer	50
+stepper.c:1272:7:st_get_realtime_rate	2

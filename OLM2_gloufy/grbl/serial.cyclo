@@ -1,0 +1,14 @@
+serial.c:65:10:serial_get_rx_buffer_available	4
+serial.c:89:10:serial_get_rx_buffer_count	4
+serial.c:112:10:serial_get_tx_buffer_count	4
+serial.c:132:6:serial_init	1
+serial.c:157:6:usb_serial_write	8
+serial.c:199:6:serial_write	2
+serial.c:242:6:serial_write_all	1
+serial.c:272:6:usbGetC	2
+serial.c:291:6:serialGetC	2
+serial.c:311:9:serial_read	12
+serial.c:357:6:mcu_reboot	1
+serial.c:369:6:HandleUartIT	28
+serial.c:471:6:USART1_IRQHandler	2
+serial.c:490:6:OnUsbDataRx	2
